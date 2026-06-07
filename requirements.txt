@@ -21,7 +21,8 @@ langchain-community>=0.2.0
 langchain-mistralai>=0.1.0        # LangChain wrapper for Mistral API
 mistralai>=0.4.0  
 langchain-chroma
-chromadb                # Official Mistral Python client
+chromadb  
+torchvision              # Official Mistral Python client
 
 # ── RAG Pipeline ──────────────────────────────────────────────────────────────
 chromadb>=0.5.0                   # Local vector store
