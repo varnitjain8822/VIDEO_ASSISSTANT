@@ -11,7 +11,7 @@ load_dotenv()
 
 # ─── Page Config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="AI Video Assistant",
+    page_title="संक्षिप्तKARO",
     page_icon="🎬",
     layout="wide",
     initial_sidebar_state="expanded",
